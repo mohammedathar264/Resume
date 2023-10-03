@@ -1,0 +1,92 @@
+
+html,body{
+    margin: 3px;
+    padding: 3px;
+
+    height: 98%;
+    width: 98%;
+    background-color: rgb(236, 245, 245);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.container{
+margin: 1px;
+padding: 2px;
+}
+.main{
+    background-color: background-color:rgb(33, 190, 190);rgb(239, 243, 243);
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    margin: 20px;
+    font-size: 19px;
+}
+.heading h4{
+    background-color:rgba(51, 71, 71, 0.192);
+}
+.heading p{
+font-size: 12px;
+display: flex;
+justify-content: first baseline;
+
+}
+heading ul li{
+    font-size:12px;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.heading p{
+    font-size: 14px;
+    font-weight: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+.heading h2{
+    font-size:17px ;
+  
+    width: 100px;
+    padding: 1px;
+    background-color:rgba(51, 71, 71, 0.192);
+
+}
+
+.color{
+    background-color: rgba(51, 71, 71, 0.192);
+    font-size:16px;
+    font-family: 'Times New Roman', Times, serif;
+font-weight:bold;
+}
+.heading1 {
+    font-weight: normal;
+    display: flex;
+    justify-content: space-between;
+}
+.heading1 h3 ,h5{
+    font-weight: normal;
+}
+.heading2{
+    display: flex;
+    justify-content: space-between;
+}
+.heading4{
+    font-weight: normal;
+    display: flex;
+  
+
+}
+.heading4 h5{
+    font-weight: normal;
+  
+
+}
+
+.h{
+    display: flex;
+    justify-content:space-between;
+  font-weight: bold;
+  margin: 20px;
+    
+}
